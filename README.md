@@ -4,8 +4,8 @@
 
 I'm a dedicated Computer Science student at UVic, deeply engaged in software development and technology exploration.
 
-- 🌱 Currently enhancing my skills in Quantum Computing and web development.
-- ⚡ Fun fact: Garfield and I share the same sentiment about Mondays!
+- 🌱 Currently enhancing my skills in web development
+- ⚡ Fun fact: I am a big fan of Garfield
 
 ## Technical Skills
 
