@@ -1,45 +1,31 @@
-# Hi there, I'm Michelle 👋
+# Welcome! I'm Michelle 👋
 
 ## About Me
 
-I'm a student passionate about coding (aren't we all?). I love learning and exploring new technologies.
+I'm a dedicated Computer Science student at UVic, deeply engaged in software development and technology exploration.
 
-- 🌱 I’m currently learning UX design & some Ruby
-- ⚡ Fun fact: I love that little orange cat who hates mondays
+- 🌱 Currently enhancing my skills in Quantum Computing and web development.
+- ⚡ Fun fact: Garfield and I share the same sentiment about Mondays!
 
-## Skills
+## Technical Skills
 
-- **Languages**: Python, Java, C, webJS
-<!---
-- **Tools**: [Tool 1], [Tool 2]
---->
-  
-<!---
-## GitHub Stats
+- **Programming Languages**: Proficient in Python, Java; knowledgeable in C and JavaScript.
+- **Software & Tools**: Experienced with Git, Visual Studio, Figma, and Photoshop.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
---->
-
-## Connect with me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-chen-08a33329b/)
 
-<!---
-## Projects
+## Projects Spotlight
 
-- [Project 1](https://github.com/yourusername/project1) - Short project description
-- [Project 2](https://github.com/yourusername/project2) - Short project description
---->
+<!-- Uncomment and update this section once projects are ready to showcase
+- [Quantum Computing Simulation](https://github.com/yourusername/quantum-simulation) - A simulation project demonstrating quantum computing principles.
+- [Responsive Web Design](https://github.com/yourusername/responsive-web) - A project highlighting advanced CSS techniques for responsive design.
+-->
 
-<!---
-- 👋 Hi, I’m @michellepyc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Uncomment this section if you want to add GitHub Stats
+## My GitHub Stats
 
-michellepyc/michellepyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Michelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+-->
+
