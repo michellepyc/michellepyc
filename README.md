@@ -9,7 +9,7 @@ I'm a dedicated Computer Science student at UVic, deeply engaged in software dev
 
 ## Technical Skills
 
-- **Programming Languages**: Proficient in Python, Java; knowledgeable in C and JavaScript.
+- **Programming Languages**: Proficient in Python, Java, C; knowledgeable JavaScript.
 - **Software & Tools**: Experienced with Git, Visual Studio, Figma, and Photoshop.
 
 ## Connect with Me
